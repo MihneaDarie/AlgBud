@@ -1,0 +1,46 @@
+# Ignore everything
+*
+
+# Allow specific file types and folders
+!*/
+!*.in
+!*.out
+!*.txt
+!*.cpp
+!*.h
+
+
+# Ignore other Visual Studio files and folders
+.vs/
+x64/
+*.suo
+*.user
+*.aps
+*.pdb
+*.idb
+*.obj
+*.pch
+*.dll
+*.exe
+*.manifest
+*_i.c
+*_p.c
+*.ilk
+*.ncb
+*.sdf
+*.suo
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+*.lib
+*.zip
+*.log
+*.ncrunch*
+*.log.*
+*.pidb
+*.log
+*.sdf
+*.opensdf
+*.docstates
